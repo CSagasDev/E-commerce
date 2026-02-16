@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\models\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\models\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBoAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-11T19:26:43.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Ecommerce\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-11T19:17:04.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Ecommerce\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:45:43.624Z",
+              "WhenOpened": "2026-02-16T17:34:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Entities\\Category.cs",
+              "RelativeToolTip": "Ecommerce\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:34:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Models\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Models\\CategoryVM.cs",
+              "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Models\\CategoryVM.cs*",
+              "RelativeToolTip": "Ecommerce\\Models\\CategoryVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:34:00.374Z",
               "EditorCaption": ""
             }
           ]
