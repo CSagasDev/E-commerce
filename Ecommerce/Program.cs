@@ -1,4 +1,6 @@
 using Ecommerce.Context;
+using Ecommerce.Repositories;
+using Ecommerce.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("SqlString"));
 });
+
+builder.Services.AddScoped(typeof(GenericRepository<>));
+builder.Services.AddScoped<CategoryService>();
 
 var app = builder.Build(); 
 

@@ -1,19 +1,13 @@
-﻿using Ecommerce.Context;
-using Ecommerce.Models;
+﻿using Ecommerce.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ecommerce.Controllers
 {
-    public class CategoryController(AppDbContext _dbContext) : Controller
+    public class CategoryController(CategoryService _categoryService) : Controller
     {
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var categories = _dbContext.Category.Select(item =>
-            new CategoryVM
-            {
-                CategoryId = item.CategoryId,
-                Name = item.Name,
-            }).ToList();
+            var categories = await _categoryService.GetAllAsync();
             return View(categories);
         }
     }
