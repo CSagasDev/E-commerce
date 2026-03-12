@@ -1,4 +1,5 @@
-﻿using Ecommerce.Services;
+﻿using Ecommerce.Models;
+using Ecommerce.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ecommerce.Controllers
@@ -9,6 +10,18 @@ namespace Ecommerce.Controllers
         {
             var categories = await _categoryService.GetAllAsync();
             return View(categories);
+        }
+        [HttpGet]
+        public async Task<IActionResult> Add()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Add(CategoryVM entityVM)
+        {
+            await _categoryService.AddAsync(entityVM);
+            ViewBag.message = "Created category";
+            return RedirectToAction("Index");
         }
     }
 }
