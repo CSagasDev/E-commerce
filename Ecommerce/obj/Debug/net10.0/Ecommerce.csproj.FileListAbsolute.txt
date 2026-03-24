@@ -260,3 +260,13 @@ C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\4mk
 C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\3yyqua4osz-{0}-4abcade5u8-4abcade5u8.gz
 C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\qgtokadmay-{0}-huwngg65ec-huwngg65ec.gz
 C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\jqmp9aebvp-{0}-22n2g2hpag-22n2g2hpag.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\4d32ofkt86-{0}-rhis9e1h15-rhis9e1h15.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\s6r2645etr-{0}-3f1uyff8g8-3f1uyff8g8.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\pxqunumj0y-{0}-2ipw1uql29-2ipw1uql29.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\dp73ssxsr3-{0}-fekobtf1nj-fekobtf1nj.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\bplpijs9sk-{0}-w5ukeb4zk2-w5ukeb4zk2.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\wvaohw61wv-{0}-reyzbs6nvl-reyzbs6nvl.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\e30y8hejtn-{0}-7vnfh0h1l3-7vnfh0h1l3.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\cfipbgthxc-{0}-snf40drnz1-snf40drnz1.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\j5tql868jj-{0}-ta7tjlnrp9-ta7tjlnrp9.gz
+C:\Users\csaga\source\repos\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\o3iqpcbqpb-{0}-4kk0thh1sk-4kk0thh1sk.gz

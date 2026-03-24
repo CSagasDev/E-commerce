@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|c:\\users\\csaga\\source\\repos\\ecommerce\\ecommerce\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T17:33:02.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Ecommerce\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Ecommerce\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-11T18:30:13.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Category\\Add.cshtml",
               "RelativeDocumentMoniker": "Ecommerce\\Views\\Category\\Add.cshtml",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "Ecommerce\\Views\\Category\\Edit.cshtml",
@@ -83,33 +100,33 @@
               "RelativeDocumentMoniker": "Ecommerce\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Ecommerce\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAjwCkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T15:11:38.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Services\\CategoryService.cs",
               "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Services\\CategoryService.cs",
               "RelativeToolTip": "Ecommerce\\Services\\CategoryService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAjwDQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T14:58:21.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Repositories\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\csaga\\source\\repos\\Ecommerce\\Ecommerce\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "Ecommerce\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAewBcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T17:04:28.372Z",
               "EditorCaption": ""

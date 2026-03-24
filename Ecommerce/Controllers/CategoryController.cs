@@ -42,5 +42,10 @@ namespace Ecommerce.Controllers
             TempData["message"] = "Edited category";
             return RedirectToAction("Index");
         }
+        public async Task<IActionResult> Delete(int id)
+        {
+            await _categoryService.DeleteAsync(id);
+            return RedirectToAction("Index");
+        }
     }
 }
