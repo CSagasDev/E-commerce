@@ -10,6 +10,14 @@
 	</div>
 	<hr />
 
+@if (TempData["message"] != null)
+{
+	<div class="alert alert-success mt-2">
+		@TempData["message"]
+	</div>
+}
+
+
 	<table class="table table-striped">
 		<thead>
 			<tr>
@@ -23,7 +31,7 @@
 			<tr>
 				<td>@item.Name</td>
 				<td style="width:120px">
-					<a href="/Category/AddEdit" class="btn btn-sm btn-primary"><i class="fa-solid fa-pen-to-square"></i></a>
+					<a href="/Category/Edit/@item.CategoryId" class="btn btn-sm btn-primary"><i class="fa-solid fa-pen-to-square"></i></a>
 					<button class="btn btn-sm btn-danger"><i class="fa-solid fa-trash"></i></button>
 				</td>
 			</tr>
